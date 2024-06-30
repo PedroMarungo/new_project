@@ -1,6 +1,6 @@
 # New Git Project
 ## Learning Mark Down
-+ Created in 2004 by __John Gruder__
++ Created in 2004 by _John Gruder_
 + Converts into a small subset of HTML tags
 + Does not need a file extension to be use but platforms like **GitHub** require it
 
